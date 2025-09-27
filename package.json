@@ -1,0 +1,26 @@
+{
+  "name": "value_estimation",
+  "version": "1.0.0",
+  "description": "Educational app for analyzing Return on Invested Capital (ROIC) through factor sensitivity analysis.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamilsi/value_estimation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kamilsi/value_estimation/issues"
+  },
+  "homepage": "https://github.com/kamilsi/value_estimation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.5.2"
+  }
+}
